@@ -27,7 +27,7 @@
 import Foundation
 
  /// Base URL for the Vimeo API
-public let VimeoBaseURL = URL(string: "https://mevo-iap-premium-api.ci.vimeows.com")!
+public let VimeoBaseURL = URL(string: "https://mevo-iap-upgrades-api.ci.vimeows.com")!
 
  /// Default API version to use for requests
 internal let VimeoDefaultAPIVersionString = "3.4"
